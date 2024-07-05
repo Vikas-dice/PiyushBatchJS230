@@ -1,0 +1,7 @@
+loops - 
+repeat 
+
+1- init
+2- cond/state
+3-update
+

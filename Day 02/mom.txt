@@ -1,0 +1,5 @@
+loops
+patterns 
+number traversal
+functions 
+----------------------------

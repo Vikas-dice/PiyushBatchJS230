@@ -1,0 +1,22 @@
+Day 0 - Orietntation 
+
+
+// util/software 
+1- IDE
+Run time env - Node js 
+
+
+
+5 things 
+1- output 
+2- input
+3- variables - memory mgmt
+4- repeat - loops
+5- function 
+
+
+
+
+
+
+
