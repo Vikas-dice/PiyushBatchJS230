@@ -71,6 +71,7 @@ for(let row=1;row<=5;row++){
     }
     console.log();
 }
+
 // let nsp=0;
 // let nsp=4;
 // for(let row=1;row<=5;row++){
